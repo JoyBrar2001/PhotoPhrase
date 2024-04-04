@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <MaxWidthWrapper className="mb-12 mt-28 sm:mt-40 flex flex-col items-center justify-center text-center">
         <div className="mx-auto mb-4 flex max-w-fit justify-center items-center space-x-2 overflow-hidden rounded-full border-gray-200 bg-white px-7 py-2 shadow-md backdrop-blur transition-all hover:border-gray-300 hover:bg-white/50">
-          <p className="text-sm font-semibold text-gray-700">Brainwave is now open source!</p>
+          <p className="text-sm font-semibold text-gray-700">PhotoPhrase is now open source!</p>
         </div>
         <h1 className="max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl">
           Generate
@@ -19,7 +19,7 @@ export default function Home() {
           in seconds.
         </h1>
         <p className="mt-5 max-w-prose text-zinc-700 sm:text-lg">
-          Brainwave allows to generate Instagram ready captions for all your images within seconds. Simply upload your image, and get an array of suitable captions right away!
+          PhotoPhrase allows to generate Instagram ready captions for all your images within seconds. Simply upload your image, and get an array of suitable captions right away!
         </p>
 
         <Link
@@ -74,7 +74,7 @@ export default function Home() {
               Start Generating in seconds
             </h2>
             <p className="mt-4 text-lg text-gray-600">
-              Creating captions for your images has never been easier than with Brainwave.
+              Creating captions for your images has never been easier than with PhotoPhrase.
             </p>
           </div>
         </div>

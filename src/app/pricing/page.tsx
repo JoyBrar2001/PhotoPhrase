@@ -79,14 +79,16 @@ export default function page() {
               </li>
               <li className="flex space-x-5">
                 <div className="flex-shrink-0">
-                  <Minus className="h-6 w-6 text-gray-300" />                </div>
+                  <Minus className="h-6 w-6 text-gray-300" />
+                </div>
                 <div className="flex items-center space-x-1">
                   <p>Higer-quality responses</p>
                 </div>
               </li>
               <li className="flex space-x-5">
                 <div className="flex-shrink-0">
-                  <Minus className="h-6 w-6 text-gray-300" />                </div>
+                  <Minus className="h-6 w-6 text-gray-300" />
+                </div>
                 <div className="flex items-center space-x-1">
                   <p>Priority support</p>
                 </div>

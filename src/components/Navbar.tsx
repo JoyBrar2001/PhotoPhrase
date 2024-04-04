@@ -12,7 +12,7 @@ const Navbar = () => {
             href="/"
             className="flex z-40 font-semibold"
           >
-            <span>Brainwave.</span>
+            <span>PhotoPhrase.</span>
           </Link>
 
           <div className="hidden items-center space-x-4 sm:flex">
