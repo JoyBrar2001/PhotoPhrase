@@ -28,7 +28,7 @@ PhotoPhrase is a web application that generates captions for uploaded images usi
 
 To run the PhotoPhrase application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/photophrase.git`
+1. Clone the repository: `git clone https://github.com/JoyBrar2001/photophrase.git`
 2. Install the required dependencies for the frontend and backend.
 3. Start the development server for the frontend and backend components.
 4. CHANGE CODE ACCORDINGLY TO YOUR COMPUTER. (IMP)
