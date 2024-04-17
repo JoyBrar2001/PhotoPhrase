@@ -1,13 +1,13 @@
 # PhotoPhrase - Image to Caption Generator
 
 <p align="center">
-<img src="backend/templates/1.png" width="800" height="450"/>
+<img src="backend/templates/1.png"/>
 </p>
 
 PhotoPhrase is a web application that generates captions for uploaded images using advanced computer vision and natural language processing techniques. The frontend is built with Next.js, Tailwind CSS, and Shadcn/ui, while the backend utilizes Python, VGG16 for feature extraction, and neural networks connected through a custom API.
 
 <p align="center">
-<img src="backend/templates/2.png" width="800" height="450"/>
+<img src="backend/templates/2.png" />
 </p>
 
 ## Features
@@ -18,7 +18,7 @@ PhotoPhrase is a web application that generates captions for uploaded images usi
 - **Responsive Design**: The website is built with a responsive layout, ensuring optimal viewing experience across various devices and screen sizes.
 
 <p >
-<img src="backend/templates/4.png" width="800" height="450"/>
+<img src="backend/templates/4.png" />
 </p>
 
 ## Technologies Used
@@ -37,7 +37,7 @@ PhotoPhrase is a web application that generates captions for uploaded images usi
 - **Custom API**: A Flask or Django-based API that integrates the frontend and backend components, enabling real-time image processing and caption generation.
 
 <p >
-<img src="backend/templates/5.png" width="800" height="450"/>
+<img src="backend/templates/5.png" />
 </p>
 
 ## Getting Started
