@@ -34,7 +34,7 @@ PhotoPhrase is a web application that generates captions for uploaded images usi
 - **Python**: The backend is built using Python, a versatile and widely-used programming language for data analysis and machine learning tasks.
 - **VGG16**: A pre-trained convolutional neural network model used for feature extraction from the uploaded images.
 - **Neural Networks**: A custom neural network model trained on image caption data for generating accurate and descriptive captions.
-- **Custom API**: A Flask or Django-based API that integrates the frontend and backend components, enabling real-time image processing and caption generation.
+- **Custom API**: A Next.JS and Python based API that integrates the frontend and backend components, enabling real-time image processing and caption generation.
 
 <p >
 <img src="backend/templates/5.png" />
